@@ -20,6 +20,9 @@ proximamente :p
 * [Drive de Franja Morada](https://drive.google.com/drive/folders/1Eye_LHMxAtYJiBa1rTo01trhbX3m7wma)
 
 ## Githubs utiles ! ୭ ˚. ᵎᵎ<img src="https://i.pinimg.com/736x/3a/48/a5/3a48a5a23251c8849f9a38a861392849.jpg" width="40px" height="40px" />
+
+gits que me sirvieron un monton, mas que nada para comparar respuestas, aunque hay que tener en cuenta que las resoluciones pueden no estar bien, tomarlo con pinzas.
+
 * [MatiasGuaymas](https://github.com/MatiasGuaymas)
 
 * [Fabian-Martinez-Rincon](https://github.com/Fabian-Martinez-Rincon)
@@ -54,10 +57,12 @@ proximamente :p
 
 ## Contacto ! ୭ ˚. ᵎᵎ<img src="https://i.pinimg.com/736x/80/ad/66/80ad663e5c06d3d2463f2614fc920d94.jpg" width="40px" height="40px" />
 
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/760992094206427168?borderRadius=&theme=dark&idleMessage=%E2%80%A7%E2%82%8A%20%E1%B5%8E%E1%B5%8E%20%F0%9F%8D%92%20%E2%8B%85%20%CB%9A%E2%9C%AE&bg=0a113e)](https://discord.com/users/760992094206427168)
 
+contacto de discord, en el que estoy casi siempre conectada, ¿tenes una duda con una resolucion o no entendes la resolucion de un ejercicio que realice en algun repositorio? lo charlamos tranqui en el discord, siempre puede haber mas de una solucion o me puedo haber equivocado.
 
-## Cafesito xD ! ୭ ˚. ᵎᵎ<img src="https://i.pinimg.com/736x/5a/eb/bc/5aebbcaff0c32a3f1d252a94544db7f0.jpg" width="40px" height="40px" />
+## Cafesito :P ! ୭ ˚. ᵎᵎ<img src="https://i.pinimg.com/736x/5a/eb/bc/5aebbcaff0c32a3f1d252a94544db7f0.jpg" width="40px" height="40px" />
 
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_3.svg)](https://cafecito.app/dulicito)
 
