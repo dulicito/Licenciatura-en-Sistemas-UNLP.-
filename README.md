@@ -11,7 +11,7 @@ proximamente :p
 
 ## Links Utiles ! ୭ ˚. ᵎᵎ<img src="https://i.pinimg.com/736x/3d/51/1b/3d511bc51f71c4654b676888110201fc.jpg" width="40px" height="40px" />
 
-* [Drive con Material(dulicito)](https://drive.google.com/drive/folders/1KqKTbVtczbfL66ZwOrqnkN302ywEIEBl?usp=sharing)
+* [Drive con Material(dulicito) nota: requiere acceso](https://drive.google.com/drive/folders/1KqKTbVtczbfL66ZwOrqnkN302ywEIEBl?usp=sharing)
 
 * [Carrd de San](https://informaticaconunclick.carrd.co/)
 
