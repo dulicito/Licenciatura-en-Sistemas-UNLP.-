@@ -7,7 +7,7 @@ Espero que te sea de ayuda 💻
 
 ## Repositorios ! ୭ ˚. ᵎᵎ <img src="https://i.pinimg.com/736x/d3/48/84/d348849f690a9405e2ef0c9bb8fcd8d4.jpg" width="40px" height="40px" />
 
-[![Repo CADP](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dulicito&repo=Conceptos-de-Algoritmos-Datos-y-Programas-CADP-&theme=react&bg_color=00000000&title_color=9139fa&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/dulicito/Conceptos-de-Algoritmos-Datos-y-Programas-CADP-)
+
 
 
 
