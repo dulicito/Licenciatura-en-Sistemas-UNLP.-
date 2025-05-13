@@ -21,6 +21,8 @@ proximamente :p
 
 * [Drive de Franja Morada](https://drive.google.com/drive/folders/1Eye_LHMxAtYJiBa1rTo01trhbX3m7wma)
 
+* [Notion con Material de TDP](https://storm-vicuna-319.notion.site/Taller-de-Programaci-n-c23fc82bd58d4e13b7be5633c655135f)
+
 ## Githubs utiles ! ୭ ˚. ᵎᵎ<img src="https://i.pinimg.com/736x/3a/48/a5/3a48a5a23251c8849f9a38a861392849.jpg" width="40px" height="40px" />
 
 gits que me sirvieron un monton, mas que nada para comparar respuestas, aunque hay que tener en cuenta que las resoluciones pueden no estar bien, tomarlo con pinzas.
