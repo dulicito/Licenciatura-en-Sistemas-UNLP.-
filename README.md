@@ -9,7 +9,7 @@ Espero que te sea de ayuda 💻
 
 [![Repo CADP](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dulicito&repo=Conceptos-de-Algoritmos-Datos-y-Programas-CADP-&theme=react&bg_color=00000000&title_color=9139fa&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/dulicito/Conceptos-de-Algoritmos-Datos-y-Programas-CADP-)
 
-proximamente :p
+proximamente :p (reparando horrores digo- errores de cuando la curse)
 
 ## Links Utiles ! ୭ ˚. ᵎᵎ<img src="https://i.pinimg.com/736x/3d/51/1b/3d511bc51f71c4654b676888110201fc.jpg" width="40px" height="40px" />
 
